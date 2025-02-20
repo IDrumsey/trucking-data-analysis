@@ -5,3 +5,7 @@ There are various different scripts you can run. To get set up, download the cod
 ### Data Sources
 
 - `fuel-prices.xlsx`: https://www.bts.gov/browse-statistical-products-and-data/info-gallery/truck-spot-rates-jan-2015-oct-2023
+
+### Data Analysis
+
+![Fuel over time chart](./generated/fuel-prices-over-time.png)
